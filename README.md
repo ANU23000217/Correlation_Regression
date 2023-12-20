@@ -25,7 +25,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ```
 Developed by: ANU RADHA .N
 
-RegisterNumber:  23000217
+RegisterNumber: 212223230018
 
 ``` 
 ```
